@@ -5,4 +5,7 @@ public class DenemeClass {
 
 
     //3. satır cıgdem
+
+    // hunileri takmama az kaldı
+
 }
